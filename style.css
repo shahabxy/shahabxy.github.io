@@ -159,6 +159,11 @@ nav ul li a:hover::after
     font-weight: 600;
     color: #cfff04;
 }
+
+.text{
+    font-size: 20px;
+}
+
 .tab-titles
 {
     display:flex;
